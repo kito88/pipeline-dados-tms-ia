@@ -1,0 +1,542 @@
+[
+    {
+        "id_viagem": "VAG-1000",
+        "data_registro": "2026-06-01T12:56:01.959066",
+        "regiao_origem": "CD-Principal-SP",
+        "regiao_destino": "Zona Leste-SP",
+        "motorista": "Carlos Silva",
+        "valor_carga": 5652.88,
+        "texto_observacao_motorista": "Trânsito completamente travado na Marginal Tietê devido a um acidente grave. Vai atrasar todas as entregas da manhã."
+    },
+    {
+        "id_viagem": "VAG-1001",
+        "data_registro": "2026-06-01T01:18:01.959066",
+        "regiao_origem": "CD-Principal-SP",
+        "regiao_destino": "Zona Leste-SP",
+        "motorista": "Roberto Santos",
+        "valor_carga": 5072.85,
+        "texto_observacao_motorista": "Entrega realizada com absoluto sucesso, canhoto assinado e sem nenhuma avaria nas caixas."
+    },
+    {
+        "id_viagem": "VAG-1002",
+        "data_registro": "2026-05-31T02:26:01.959066",
+        "regiao_origem": "CD-Principal-SP",
+        "regiao_destino": "Arujá-SP",
+        "motorista": "Marcos Souza",
+        "valor_carga": 17719.65,
+        "texto_observacao_motorista": "Trânsito completamente travado na Marginal Tietê devido a um acidente grave. Vai atrasar todas as entregas da manhã."
+    },
+    {
+        "id_viagem": "VAG-1003",
+        "data_registro": "2026-06-01T01:35:01.959066",
+        "regiao_origem": "CD-Principal-SP",
+        "regiao_destino": "Zona Leste-SP",
+        "motorista": "Marcos Souza",
+        "valor_carga": 10228.55,
+        "texto_observacao_motorista": "O pneu dianteiro estourou na Rodovia Presidente Dutra, precisamos acionar o borracheiro. Atraso estimado de 2 horas."
+    },
+    {
+        "id_viagem": "VAG-1004",
+        "data_registro": "2026-06-01T09:07:01.959066",
+        "regiao_origem": "CD-Principal-SP",
+        "regiao_destino": "Guarulhos-SP",
+        "motorista": "Roberto Santos",
+        "valor_carga": 50031.0,
+        "texto_observacao_motorista": "Cliente não estava no local para receber a mercadoria. Janela de entrega encerrada. Retornando ao CD."
+    },
+    {
+        "id_viagem": "VAG-1005",
+        "data_registro": "2026-06-01T18:17:01.959066",
+        "regiao_origem": "CD-Principal-SP",
+        "regiao_destino": "Zona Leste-SP",
+        "motorista": "Marcos Souza",
+        "valor_carga": 10539.72,
+        "texto_observacao_motorista": "O veículo apresentou uma falha mecânica no sistema de injeção de combustível e começou a perder força na subida. Parado no acostamento."
+    },
+    {
+        "id_viagem": "VAG-1006",
+        "data_registro": "2026-05-29T21:35:01.959066",
+        "regiao_origem": "CD-Principal-SP",
+        "regiao_destino": "Barueri-SP",
+        "motorista": "Carlos Silva",
+        "valor_carga": 53449.9,
+        "texto_observacao_motorista": "Entrega realizada com absoluto sucesso, canhoto assinado e sem nenhuma avaria nas caixas."
+    },
+    {
+        "id_viagem": "VAG-1007",
+        "data_registro": "2026-05-30T00:53:01.959066",
+        "regiao_origem": "CD-Principal-SP",
+        "regiao_destino": "Arujá-SP",
+        "motorista": "Marcos Souza",
+        "valor_carga": 13296.9,
+        "texto_observacao_motorista": "O veículo apresentou uma falha mecânica no sistema de injeção de combustível e começou a perder força na subida. Parado no acostamento."
+    },
+    {
+        "id_viagem": "VAG-1008",
+        "data_registro": "2026-05-30T15:40:01.959066",
+        "regiao_origem": "CD-Principal-SP",
+        "regiao_destino": "Barueri-SP",
+        "motorista": "Roberto Santos",
+        "valor_carga": 44925.85,
+        "texto_observacao_motorista": "O veículo apresentou uma falha mecânica no sistema de injeção de combustível e começou a perder força na subida. Parado no acostamento."
+    },
+    {
+        "id_viagem": "VAG-1009",
+        "data_registro": "2026-06-01T18:18:01.959066",
+        "regiao_origem": "CD-Principal-SP",
+        "regiao_destino": "Arujá-SP",
+        "motorista": "André Oliveira",
+        "valor_carga": 64016.62,
+        "texto_observacao_motorista": "O veículo apresentou uma falha mecânica no sistema de injeção de combustível e começou a perder força na subida. Parado no acostamento."
+    },
+    {
+        "id_viagem": "VAG-1010",
+        "data_registro": "2026-05-30T08:04:01.959066",
+        "regiao_origem": "CD-Principal-SP",
+        "regiao_destino": "Barueri-SP",
+        "motorista": "Carlos Silva",
+        "valor_carga": 17676.59,
+        "texto_observacao_motorista": "Entrega realizada com absoluto sucesso, canhoto assinado e sem nenhuma avaria nas caixas."
+    },
+    {
+        "id_viagem": "VAG-1011",
+        "data_registro": "2026-05-30T05:27:01.959066",
+        "regiao_origem": "CD-Principal-SP",
+        "regiao_destino": "Barueri-SP",
+        "motorista": "Marcos Souza",
+        "valor_carga": 26772.75,
+        "texto_observacao_motorista": "O pneu dianteiro estourou na Rodovia Presidente Dutra, precisamos acionar o borracheiro. Atraso estimado de 2 horas."
+    },
+    {
+        "id_viagem": "VAG-1012",
+        "data_registro": "2026-05-30T06:03:01.959066",
+        "regiao_origem": "CD-Principal-SP",
+        "regiao_destino": "Zona Leste-SP",
+        "motorista": "Carlos Silva",
+        "valor_carga": 74580.84,
+        "texto_observacao_motorista": "Trânsito completamente travado na Marginal Tietê devido a um acidente grave. Vai atrasar todas as entregas da manhã."
+    },
+    {
+        "id_viagem": "VAG-1013",
+        "data_registro": "2026-05-31T14:45:01.959066",
+        "regiao_origem": "CD-Principal-SP",
+        "regiao_destino": "Mogi das Cruzes-SP",
+        "motorista": "Carlos Silva",
+        "valor_carga": 20851.35,
+        "texto_observacao_motorista": "O pneu dianteiro estourou na Rodovia Presidente Dutra, precisamos acionar o borracheiro. Atraso estimado de 2 horas."
+    },
+    {
+        "id_viagem": "VAG-1014",
+        "data_registro": "2026-05-30T18:45:01.959066",
+        "regiao_origem": "CD-Principal-SP",
+        "regiao_destino": "Zona Leste-SP",
+        "motorista": "Marcos Souza",
+        "valor_carga": 22880.92,
+        "texto_observacao_motorista": "O pneu dianteiro estourou na Rodovia Presidente Dutra, precisamos acionar o borracheiro. Atraso estimado de 2 horas."
+    },
+    {
+        "id_viagem": "VAG-1015",
+        "data_registro": "2026-05-31T22:57:01.959066",
+        "regiao_origem": "CD-Principal-SP",
+        "regiao_destino": "Arujá-SP",
+        "motorista": "Carlos Silva",
+        "valor_carga": 9067.91,
+        "texto_observacao_motorista": "Trânsito completamente travado na Marginal Tietê devido a um acidente grave. Vai atrasar todas as entregas da manhã."
+    },
+    {
+        "id_viagem": "VAG-1016",
+        "data_registro": "2026-05-30T05:05:01.959066",
+        "regiao_origem": "CD-Principal-SP",
+        "regiao_destino": "Mogi das Cruzes-SP",
+        "motorista": "Marcos Souza",
+        "valor_carga": 62273.72,
+        "texto_observacao_motorista": "Trânsito completamente travado na Marginal Tietê devido a um acidente grave. Vai atrasar todas as entregas da manhã."
+    },
+    {
+        "id_viagem": "VAG-1017",
+        "data_registro": "2026-05-30T12:17:01.959066",
+        "regiao_origem": "CD-Principal-SP",
+        "regiao_destino": "Mogi das Cruzes-SP",
+        "motorista": "André Oliveira",
+        "valor_carga": 60884.96,
+        "texto_observacao_motorista": "Cheguei no cliente para descarregar mas ele recusou a carga porque disse que a nota fiscal veio com o valor errado."
+    },
+    {
+        "id_viagem": "VAG-1018",
+        "data_registro": "2026-05-30T20:11:01.959066",
+        "regiao_origem": "CD-Principal-SP",
+        "regiao_destino": "Arujá-SP",
+        "motorista": "André Oliveira",
+        "valor_carga": 7096.21,
+        "texto_observacao_motorista": "O veículo apresentou uma falha mecânica no sistema de injeção de combustível e começou a perder força na subida. Parado no acostamento."
+    },
+    {
+        "id_viagem": "VAG-1019",
+        "data_registro": "2026-05-31T12:39:01.959066",
+        "regiao_origem": "CD-Principal-SP",
+        "regiao_destino": "Guarulhos-SP",
+        "motorista": "Roberto Santos",
+        "valor_carga": 51125.75,
+        "texto_observacao_motorista": "Trânsito completamente travado na Marginal Tietê devido a um acidente grave. Vai atrasar todas as entregas da manhã."
+    },
+    {
+        "id_viagem": "VAG-1020",
+        "data_registro": "2026-05-31T14:40:01.959066",
+        "regiao_origem": "CD-Principal-SP",
+        "regiao_destino": "Zona Leste-SP",
+        "motorista": "Roberto Santos",
+        "valor_carga": 71056.65,
+        "texto_observacao_motorista": "O veículo apresentou uma falha mecânica no sistema de injeção de combustível e começou a perder força na subida. Parado no acostamento."
+    },
+    {
+        "id_viagem": "VAG-1021",
+        "data_registro": "2026-05-30T12:50:01.959066",
+        "regiao_origem": "CD-Principal-SP",
+        "regiao_destino": "Mogi das Cruzes-SP",
+        "motorista": "André Oliveira",
+        "valor_carga": 11550.53,
+        "texto_observacao_motorista": "O veículo apresentou uma falha mecânica no sistema de injeção de combustível e começou a perder força na subida. Parado no acostamento."
+    },
+    {
+        "id_viagem": "VAG-1022",
+        "data_registro": "2026-05-31T14:31:01.959066",
+        "regiao_origem": "CD-Principal-SP",
+        "regiao_destino": "Guarulhos-SP",
+        "motorista": "André Oliveira",
+        "valor_carga": 63360.07,
+        "texto_observacao_motorista": "Cheguei no cliente para descarregar mas ele recusou a carga porque disse que a nota fiscal veio com o valor errado."
+    },
+    {
+        "id_viagem": "VAG-1023",
+        "data_registro": "2026-05-29T22:54:01.959066",
+        "regiao_origem": "CD-Principal-SP",
+        "regiao_destino": "Arujá-SP",
+        "motorista": "Carlos Silva",
+        "valor_carga": 65055.26,
+        "texto_observacao_motorista": "O veículo apresentou uma falha mecânica no sistema de injeção de combustível e começou a perder força na subida. Parado no acostamento."
+    },
+    {
+        "id_viagem": "VAG-1024",
+        "data_registro": "2026-06-01T00:58:01.959066",
+        "regiao_origem": "CD-Principal-SP",
+        "regiao_destino": "Barueri-SP",
+        "motorista": "Marcos Souza",
+        "valor_carga": 59934.49,
+        "texto_observacao_motorista": "Trânsito completamente travado na Marginal Tietê devido a um acidente grave. Vai atrasar todas as entregas da manhã."
+    },
+    {
+        "id_viagem": "VAG-1025",
+        "data_registro": "2026-06-01T10:33:01.959066",
+        "regiao_origem": "CD-Principal-SP",
+        "regiao_destino": "Arujá-SP",
+        "motorista": "Carlos Silva",
+        "valor_carga": 6982.43,
+        "texto_observacao_motorista": "Entrega realizada com absoluto sucesso, canhoto assinado e sem nenhuma avaria nas caixas."
+    },
+    {
+        "id_viagem": "VAG-1026",
+        "data_registro": "2026-05-30T04:58:01.959066",
+        "regiao_origem": "CD-Principal-SP",
+        "regiao_destino": "Mogi das Cruzes-SP",
+        "motorista": "Carlos Silva",
+        "valor_carga": 46541.64,
+        "texto_observacao_motorista": "Cliente não estava no local para receber a mercadoria. Janela de entrega encerrada. Retornando ao CD."
+    },
+    {
+        "id_viagem": "VAG-1027",
+        "data_registro": "2026-05-30T06:22:01.959066",
+        "regiao_origem": "CD-Principal-SP",
+        "regiao_destino": "Mogi das Cruzes-SP",
+        "motorista": "Carlos Silva",
+        "valor_carga": 38305.06,
+        "texto_observacao_motorista": "Cliente não estava no local para receber a mercadoria. Janela de entrega encerrada. Retornando ao CD."
+    },
+    {
+        "id_viagem": "VAG-1028",
+        "data_registro": "2026-06-01T09:08:01.959066",
+        "regiao_origem": "CD-Principal-SP",
+        "regiao_destino": "Mogi das Cruzes-SP",
+        "motorista": "Roberto Santos",
+        "valor_carga": 44177.98,
+        "texto_observacao_motorista": "O pneu dianteiro estourou na Rodovia Presidente Dutra, precisamos acionar o borracheiro. Atraso estimado de 2 horas."
+    },
+    {
+        "id_viagem": "VAG-1029",
+        "data_registro": "2026-06-01T08:29:01.959066",
+        "regiao_origem": "CD-Principal-SP",
+        "regiao_destino": "Guarulhos-SP",
+        "motorista": "André Oliveira",
+        "valor_carga": 58472.81,
+        "texto_observacao_motorista": "Entrega realizada com absoluto sucesso, canhoto assinado e sem nenhuma avaria nas caixas."
+    },
+    {
+        "id_viagem": "VAG-1030",
+        "data_registro": "2026-05-30T00:01:01.959066",
+        "regiao_origem": "CD-Principal-SP",
+        "regiao_destino": "Guarulhos-SP",
+        "motorista": "André Oliveira",
+        "valor_carga": 72325.04,
+        "texto_observacao_motorista": "Entrega realizada com absoluto sucesso, canhoto assinado e sem nenhuma avaria nas caixas."
+    },
+    {
+        "id_viagem": "VAG-1031",
+        "data_registro": "2026-05-31T16:29:01.959066",
+        "regiao_origem": "CD-Principal-SP",
+        "regiao_destino": "Guarulhos-SP",
+        "motorista": "Carlos Silva",
+        "valor_carga": 59907.2,
+        "texto_observacao_motorista": "Entrega realizada com absoluto sucesso, canhoto assinado e sem nenhuma avaria nas caixas."
+    },
+    {
+        "id_viagem": "VAG-1032",
+        "data_registro": "2026-06-01T10:08:01.959066",
+        "regiao_origem": "CD-Principal-SP",
+        "regiao_destino": "Zona Leste-SP",
+        "motorista": "André Oliveira",
+        "valor_carga": 53060.36,
+        "texto_observacao_motorista": "O pneu dianteiro estourou na Rodovia Presidente Dutra, precisamos acionar o borracheiro. Atraso estimado de 2 horas."
+    },
+    {
+        "id_viagem": "VAG-1033",
+        "data_registro": "2026-05-30T09:44:01.959066",
+        "regiao_origem": "CD-Principal-SP",
+        "regiao_destino": "Guarulhos-SP",
+        "motorista": "Marcos Souza",
+        "valor_carga": 36815.23,
+        "texto_observacao_motorista": "Cheguei no cliente para descarregar mas ele recusou a carga porque disse que a nota fiscal veio com o valor errado."
+    },
+    {
+        "id_viagem": "VAG-1034",
+        "data_registro": "2026-05-30T08:24:01.959066",
+        "regiao_origem": "CD-Principal-SP",
+        "regiao_destino": "Zona Leste-SP",
+        "motorista": "Roberto Santos",
+        "valor_carga": 23549.88,
+        "texto_observacao_motorista": "Entrega realizada com absoluto sucesso, canhoto assinado e sem nenhuma avaria nas caixas."
+    },
+    {
+        "id_viagem": "VAG-1035",
+        "data_registro": "2026-05-30T12:33:01.959066",
+        "regiao_origem": "CD-Principal-SP",
+        "regiao_destino": "Mogi das Cruzes-SP",
+        "motorista": "Roberto Santos",
+        "valor_carga": 46371.46,
+        "texto_observacao_motorista": "O veículo apresentou uma falha mecânica no sistema de injeção de combustível e começou a perder força na subida. Parado no acostamento."
+    },
+    {
+        "id_viagem": "VAG-1036",
+        "data_registro": "2026-06-01T05:26:01.959066",
+        "regiao_origem": "CD-Principal-SP",
+        "regiao_destino": "Mogi das Cruzes-SP",
+        "motorista": "Roberto Santos",
+        "valor_carga": 55235.44,
+        "texto_observacao_motorista": "Trânsito completamente travado na Marginal Tietê devido a um acidente grave. Vai atrasar todas as entregas da manhã."
+    },
+    {
+        "id_viagem": "VAG-1037",
+        "data_registro": "2026-05-31T15:27:01.959066",
+        "regiao_origem": "CD-Principal-SP",
+        "regiao_destino": "Zona Leste-SP",
+        "motorista": "Carlos Silva",
+        "valor_carga": 28754.94,
+        "texto_observacao_motorista": "Cliente não estava no local para receber a mercadoria. Janela de entrega encerrada. Retornando ao CD."
+    },
+    {
+        "id_viagem": "VAG-1038",
+        "data_registro": "2026-05-30T23:58:01.959066",
+        "regiao_origem": "CD-Principal-SP",
+        "regiao_destino": "Mogi das Cruzes-SP",
+        "motorista": "Marcos Souza",
+        "valor_carga": 73725.78,
+        "texto_observacao_motorista": "Cheguei no cliente para descarregar mas ele recusou a carga porque disse que a nota fiscal veio com o valor errado."
+    },
+    {
+        "id_viagem": "VAG-1039",
+        "data_registro": "2026-05-30T14:42:01.959066",
+        "regiao_origem": "CD-Principal-SP",
+        "regiao_destino": "Mogi das Cruzes-SP",
+        "motorista": "Carlos Silva",
+        "valor_carga": 59811.09,
+        "texto_observacao_motorista": "O pneu dianteiro estourou na Rodovia Presidente Dutra, precisamos acionar o borracheiro. Atraso estimado de 2 horas."
+    },
+    {
+        "id_viagem": "VAG-1040",
+        "data_registro": "2026-05-31T06:21:01.959066",
+        "regiao_origem": "CD-Principal-SP",
+        "regiao_destino": "Arujá-SP",
+        "motorista": "Marcos Souza",
+        "valor_carga": 70061.17,
+        "texto_observacao_motorista": "Cliente não estava no local para receber a mercadoria. Janela de entrega encerrada. Retornando ao CD."
+    },
+    {
+        "id_viagem": "VAG-1041",
+        "data_registro": "2026-05-30T07:32:01.959066",
+        "regiao_origem": "CD-Principal-SP",
+        "regiao_destino": "Barueri-SP",
+        "motorista": "Carlos Silva",
+        "valor_carga": 64921.87,
+        "texto_observacao_motorista": "O pneu dianteiro estourou na Rodovia Presidente Dutra, precisamos acionar o borracheiro. Atraso estimado de 2 horas."
+    },
+    {
+        "id_viagem": "VAG-1042",
+        "data_registro": "2026-05-31T01:51:01.959066",
+        "regiao_origem": "CD-Principal-SP",
+        "regiao_destino": "Barueri-SP",
+        "motorista": "Marcos Souza",
+        "valor_carga": 33566.37,
+        "texto_observacao_motorista": "Entrega realizada com absoluto sucesso, canhoto assinado e sem nenhuma avaria nas caixas."
+    },
+    {
+        "id_viagem": "VAG-1043",
+        "data_registro": "2026-05-30T12:17:01.959066",
+        "regiao_origem": "CD-Principal-SP",
+        "regiao_destino": "Arujá-SP",
+        "motorista": "Marcos Souza",
+        "valor_carga": 6696.8,
+        "texto_observacao_motorista": "Trânsito completamente travado na Marginal Tietê devido a um acidente grave. Vai atrasar todas as entregas da manhã."
+    },
+    {
+        "id_viagem": "VAG-1044",
+        "data_registro": "2026-05-30T23:25:01.959066",
+        "regiao_origem": "CD-Principal-SP",
+        "regiao_destino": "Mogi das Cruzes-SP",
+        "motorista": "Carlos Silva",
+        "valor_carga": 59701.73,
+        "texto_observacao_motorista": "Cliente não estava no local para receber a mercadoria. Janela de entrega encerrada. Retornando ao CD."
+    },
+    {
+        "id_viagem": "VAG-1045",
+        "data_registro": "2026-05-31T08:44:01.959066",
+        "regiao_origem": "CD-Principal-SP",
+        "regiao_destino": "Barueri-SP",
+        "motorista": "Roberto Santos",
+        "valor_carga": 28098.83,
+        "texto_observacao_motorista": "Cheguei no cliente para descarregar mas ele recusou a carga porque disse que a nota fiscal veio com o valor errado."
+    },
+    {
+        "id_viagem": "VAG-1046",
+        "data_registro": "2026-06-01T15:21:01.959066",
+        "regiao_origem": "CD-Principal-SP",
+        "regiao_destino": "Mogi das Cruzes-SP",
+        "motorista": "Roberto Santos",
+        "valor_carga": 14723.51,
+        "texto_observacao_motorista": "O veículo apresentou uma falha mecânica no sistema de injeção de combustível e começou a perder força na subida. Parado no acostamento."
+    },
+    {
+        "id_viagem": "VAG-1047",
+        "data_registro": "2026-05-29T21:01:01.959066",
+        "regiao_origem": "CD-Principal-SP",
+        "regiao_destino": "Barueri-SP",
+        "motorista": "Roberto Santos",
+        "valor_carga": 10169.46,
+        "texto_observacao_motorista": "Entrega realizada com absoluto sucesso, canhoto assinado e sem nenhuma avaria nas caixas."
+    },
+    {
+        "id_viagem": "VAG-1048",
+        "data_registro": "2026-05-31T00:24:01.959066",
+        "regiao_origem": "CD-Principal-SP",
+        "regiao_destino": "Barueri-SP",
+        "motorista": "Marcos Souza",
+        "valor_carga": 21220.33,
+        "texto_observacao_motorista": "O veículo apresentou uma falha mecânica no sistema de injeção de combustível e começou a perder força na subida. Parado no acostamento."
+    },
+    {
+        "id_viagem": "VAG-1049",
+        "data_registro": "2026-05-30T17:23:01.959066",
+        "regiao_origem": "CD-Principal-SP",
+        "regiao_destino": "Barueri-SP",
+        "motorista": "Roberto Santos",
+        "valor_carga": 64857.29,
+        "texto_observacao_motorista": "Cheguei no cliente para descarregar mas ele recusou a carga porque disse que a nota fiscal veio com o valor errado."
+    },
+    {
+        "id_viagem": "VAG-1050",
+        "data_registro": "2026-05-29T22:02:01.959066",
+        "regiao_origem": "CD-Principal-SP",
+        "regiao_destino": "Zona Leste-SP",
+        "motorista": "Roberto Santos",
+        "valor_carga": 68409.66,
+        "texto_observacao_motorista": "Trânsito completamente travado na Marginal Tietê devido a um acidente grave. Vai atrasar todas as entregas da manhã."
+    },
+    {
+        "id_viagem": "VAG-1051",
+        "data_registro": "2026-05-30T03:53:01.959066",
+        "regiao_origem": "CD-Principal-SP",
+        "regiao_destino": "Arujá-SP",
+        "motorista": "Marcos Souza",
+        "valor_carga": 44328.74,
+        "texto_observacao_motorista": "O pneu dianteiro estourou na Rodovia Presidente Dutra, precisamos acionar o borracheiro. Atraso estimado de 2 horas."
+    },
+    {
+        "id_viagem": "VAG-1052",
+        "data_registro": "2026-06-01T13:32:01.959066",
+        "regiao_origem": "CD-Principal-SP",
+        "regiao_destino": "Mogi das Cruzes-SP",
+        "motorista": "André Oliveira",
+        "valor_carga": 54677.07,
+        "texto_observacao_motorista": "Cliente não estava no local para receber a mercadoria. Janela de entrega encerrada. Retornando ao CD."
+    },
+    {
+        "id_viagem": "VAG-1053",
+        "data_registro": "2026-06-01T00:59:01.959066",
+        "regiao_origem": "CD-Principal-SP",
+        "regiao_destino": "Barueri-SP",
+        "motorista": "Carlos Silva",
+        "valor_carga": 41508.72,
+        "texto_observacao_motorista": "Cheguei no cliente para descarregar mas ele recusou a carga porque disse que a nota fiscal veio com o valor errado."
+    },
+    {
+        "id_viagem": "VAG-1054",
+        "data_registro": "2026-05-30T16:11:01.959066",
+        "regiao_origem": "CD-Principal-SP",
+        "regiao_destino": "Mogi das Cruzes-SP",
+        "motorista": "Roberto Santos",
+        "valor_carga": 28553.02,
+        "texto_observacao_motorista": "O pneu dianteiro estourou na Rodovia Presidente Dutra, precisamos acionar o borracheiro. Atraso estimado de 2 horas."
+    },
+    {
+        "id_viagem": "VAG-1055",
+        "data_registro": "2026-05-30T03:54:01.959066",
+        "regiao_origem": "CD-Principal-SP",
+        "regiao_destino": "Guarulhos-SP",
+        "motorista": "Carlos Silva",
+        "valor_carga": 28706.33,
+        "texto_observacao_motorista": "Entrega realizada com absoluto sucesso, canhoto assinado e sem nenhuma avaria nas caixas."
+    },
+    {
+        "id_viagem": "VAG-1056",
+        "data_registro": "2026-05-31T08:18:01.959066",
+        "regiao_origem": "CD-Principal-SP",
+        "regiao_destino": "Guarulhos-SP",
+        "motorista": "Marcos Souza",
+        "valor_carga": 36320.27,
+        "texto_observacao_motorista": "O pneu dianteiro estourou na Rodovia Presidente Dutra, precisamos acionar o borracheiro. Atraso estimado de 2 horas."
+    },
+    {
+        "id_viagem": "VAG-1057",
+        "data_registro": "2026-05-30T14:38:01.959066",
+        "regiao_origem": "CD-Principal-SP",
+        "regiao_destino": "Arujá-SP",
+        "motorista": "Roberto Santos",
+        "valor_carga": 36087.45,
+        "texto_observacao_motorista": "Cheguei no cliente para descarregar mas ele recusou a carga porque disse que a nota fiscal veio com o valor errado."
+    },
+    {
+        "id_viagem": "VAG-1058",
+        "data_registro": "2026-06-01T14:32:01.959066",
+        "regiao_origem": "CD-Principal-SP",
+        "regiao_destino": "Guarulhos-SP",
+        "motorista": "Carlos Silva",
+        "valor_carga": 18709.62,
+        "texto_observacao_motorista": "O veículo apresentou uma falha mecânica no sistema de injeção de combustível e começou a perder força na subida. Parado no acostamento."
+    },
+    {
+        "id_viagem": "VAG-1059",
+        "data_registro": "2026-06-01T00:40:01.959066",
+        "regiao_origem": "CD-Principal-SP",
+        "regiao_destino": "Zona Leste-SP",
+        "motorista": "André Oliveira",
+        "valor_carga": 67158.68,
+        "texto_observacao_motorista": "Trânsito completamente travado na Marginal Tietê devido a um acidente grave. Vai atrasar todas as entregas da manhã."
+    }
+]
